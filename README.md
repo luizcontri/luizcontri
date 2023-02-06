@@ -1,16 +1,13 @@
 ### Hi there 👋
+I'm Luiz Contri and welcome to my github profile.\
+In this profile I develop projects with technologies that I am currently learning, usually about Data Engeneering.\
+I hope this can be useful to you in some way. 😊
 
-<!--
-**luizcontri/luizcontri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizcontri&theme=dark&count_private=true"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luizcontri&hide=html&layout=compact&theme=dark&count_private=true" /></td>
+    </tr>   
+</table>
+</center> 
