@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Luiz Contri and welcome to my github profile.\
-In this profile I develop projects with technologies that I am currently learning, usually about Data Engeneering.\
+I'm Luiz Contri and welcome to my github profile.<br>
+In this profile I develop projects with technologies that I am currently learning, usually about Data Engeneering.<br><br>
 I hope this can be useful to you in some way. 😊
 
 <center>
