@@ -7,7 +7,7 @@ I hope this can be useful to you in some way. 😊
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizcontri&theme=dark&count_private=true"/></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luizcontri&hide=html&layout=compact&theme=dark&count_private=true" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luizcontri&hide=html&theme=dark&count_private=true" /></td>
     </tr>
 </table>
 </center>
